@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Skill"
+  short_description: "Transcript, captions and video prints"
+  default_prompt: "Analyze an online video, test transcript sources, inspect captions and storyboard prints, and report what worked, what failed, and why."
